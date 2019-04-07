@@ -124,3 +124,6 @@ DOCS/
 
 # VSCode
 .vscode/
+
+# StaticFiles
+/static/
